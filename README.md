@@ -44,7 +44,10 @@ pod install; pod update
 * Transaction details
 * Landing web page
 
-## Authors
 
-* [**Artur Guseynov**](https://github.com/flypaper0) - *iOS dev*
+----
 
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
